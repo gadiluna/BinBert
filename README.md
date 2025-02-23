@@ -6,12 +6,12 @@
 
 ## **Dependencies**
 
-pip install torch
-pip install numpy
-pip install pandas
-pip install tqdm
-pip install transformers
-pip install matplotlib
+- `torch`
+- `numpy`
+- `pandas`
+- `tqdm`
+- `transformers`
+- `matplotlib`
 
 
 ## **Usage**
