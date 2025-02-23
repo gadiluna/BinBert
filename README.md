@@ -2,6 +2,7 @@
 
 **Code for the paper**: *BinBert: Binary Code Understanding with a Fine-tunable and Execution-aware Transformer*  
 **Authors**: Fiorella Artuso, Marco Mormando, Giuseppe Antonio Di Luna, and Leonardo Querzoni
+Link: https://ieeexplore.ieee.org/abstract/document/10521866
 ---
 
 ## **Dependencies**
