@@ -2,10 +2,21 @@
 
 **Code for the paper**: *BinBert: Binary Code Understanding with a Fine-tunable and Execution-aware Transformer*  
 **Authors**: Fiorella Artuso, Marco Mormando, Giuseppe Antonio Di Luna, and Leonardo Querzoni
-
-
 ---
-## **BinBert**
+
+## **Dependencies**
+
+pip install torch
+pip install numpy
+pip install pandas
+pip install tqdm
+pip install transformers
+pip install matplotlib
+
+
+## **Usage**
+
+
 
 ---
 
