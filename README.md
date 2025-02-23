@@ -16,4 +16,4 @@
 
 ---
 
-This code is proprietary and may not be used, modified, or distributed without explicit permission from the copyright holder.
+This code is proprietary and may not be modified, or distributed without explicit permission from the copyright holder. It can be used for research purporse to reproduce the result of the paper. 
